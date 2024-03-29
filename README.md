@@ -56,7 +56,7 @@ int main() {
 ## OUTPUT
 
 
-![image](https://github.com/Hariveeraprasad-2006/Linux-Process-API-fork-wait-exec/assets/145049988/4ddc6d3f-5ac9-4ec8-8288-9e2db488fde4)
+![image](https://github.com/Hariveeraprasad-2006/Linux-Process-API-fork-wait-exec/assets/145049988/ed7d0a87-405f-4f38-8fad-8066d632dbdb)
 
 
 
@@ -106,7 +106,7 @@ int main() {
 ## OUTPUT
 
 
-![image](https://github.com/Hariveeraprasad-2006/Linux-Process-API-fork-wait-exec/assets/145049988/e3387fe4-864b-47b2-84ed-241c83f24f15)
+![image](https://github.com/Hariveeraprasad-2006/Linux-Process-API-fork-wait-exec/assets/145049988/c2eb81b7-7849-40f0-819b-a4ccd78b17c2)
 
 
 
@@ -152,7 +152,7 @@ int main() {
 
 
 ## OUTPUT
-![image](https://github.com/Hariveeraprasad-2006/Linux-Process-API-fork-wait-exec/assets/145049988/8fd77688-ca3a-4d27-adf9-3052c710df72)
+![image](https://github.com/Hariveeraprasad-2006/Linux-Process-API-fork-wait-exec/assets/145049988/a301d3f9-6e57-4861-b9e5-68fcace9f96c)
 
 
 
